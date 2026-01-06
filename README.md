@@ -236,6 +236,4 @@ Para soporte técnico o preguntas:
 - Asegura compatibilidad de versiones
 
 ---
-
-**Nota**: Este pipeline asume un esquema PostgreSQL pre-configurado. Los scripts SQL para crear las tablas deben ejecutarse antes de la carga.#   - A s s e s s m e n t - E m p l e a b i l i d a d - - - E n u n c i a d o - y - e n t r e g a  
  
